@@ -36,7 +36,7 @@
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
-  font-family: 'chunkfiveroman', sans-serif;
+  font-family: 'cantarellbold', sans-serif;
   font-weight: bold;}
 
 header {
@@ -48,13 +48,18 @@ hr {
 }
 
 h1 {
-  font-family: "chunkfiveroman", sans-serif;
+  font-family: 'cantarellbold', sans-serif;
   font-weight:bold;
   font-size:48px;
   }
 
   h2 {
-  font-family: "chunkfiveroman", sans-serif;
+  font-family: 'cantarellbold', sans-serif;
+  }
+
+  h2 span {
+      color: #8A9091;
+      font-family: "chunkfiveroman", sans-serif;
   }
 
   .next-quote {
@@ -78,3 +83,15 @@ h1 {
   font-style: italic;
   padding-top: 26px;
 }
+
+@media (max-width: 750px) { .footer-blurb { text-align: left;
+ }
+}
+
+.modal {
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  }
+
+  ::selection {
+    background-color: #f84342;
+  }
