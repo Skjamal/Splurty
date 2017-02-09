@@ -1,9 +1,11 @@
-#Splurty
-###Written in Ruby, HTML, CSS3 and ran on Rails
+# Splurty
 
-##You can view Splurty [here](https://splurty-satinder-jamal.herokuapp.com/). Enter your quote into the modal and inspire others to succeed.
+### Written in Ruby, HTML, CSS3 and ran on Rails
 
-##Features
+## You can view Splurty [here](https://splurty-satinder-jamal.herokuapp.com/). Enter your quote into the modal and inspire others to succeed.
+
+
+## Features
 * Generate quotes easily and efficiently by pressing the "Contribute" button.
 * Fun and inspiring quotes.
 * Twitter Bootstrap used for header, footer, buttons, and pop-up modal design.
