@@ -1,28 +1,10 @@
-== README
+#Splurty
+###Written in Ruby, HTML, CSS3 and ran on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##You can view Splurty [here](https://splurty-satinder-jamal.herokuapp.com/). Enter your quote into the modal and inspire others to succeed.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+##Features
+* Generate quotes easily and efficiently by pressing the "Contribute" button.
+* Fun and inspiring quotes.
+* Twitter Bootstrap used for header, footer, buttons, and pop-up modal design.
+![](https://raw.github.com/skjamal/splurty/master/SplurtyScreenShot.png)
